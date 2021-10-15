@@ -1,3 +1,7 @@
 now I overwrite this linesremo
 yeni özellik eklendi
+<<<<<<< HEAD
 xyz yeni satır
+=======
+master degisiklik
+>>>>>>> 80d4ccaa64f26901ebd78a6ea4286ac49df2c627
